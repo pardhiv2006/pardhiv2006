@@ -1,8 +1,3 @@
-<!-- Profile Picture -->
-<p align="center">
-  <img src="your_image_url_here" alt="Profile Picture" width="150" height="150" style="border-radius:50%;" />
-</p>
-
 # 💫 About Me:
 🔭 I’m currently working on AI and Machine Learning projects using Python, focusing on data-driven applications.<br><br>👯 I’m looking to collaborate on AI, ML, and Data Analytics projects that solve real-world problems.<br><br>🤝 I’m looking for help with internships, real-world ML deployment, and advanced model optimization.<br><br>🌱 I’m currently learning Deep Learning, Neural Networks, and advanced Machine Learning techniques.<br><br>💬 Ask me about Python, Machine Learning, Data Analysis, EDA, and AI-based projects.<br><br>⚡ Fun fact: I balance AI projects with national-level volleyball experience.<br>
 
